@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - 2021-12-22
 ### Added
+* Github CI action [#4](https://github.com/BrunoCaetanoDev/spacemission-manager/issues/4)
 * Migrate to Java 17 [#1](https://github.com/BrunoCaetanoDev/spacemission-manager/issues/1)
 * Unit and integration testing [cf-training-springboot-2019 #21](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/21)
 * Standardized logging capabilities [cf-training-springboot-2019 #18](https://github.com/cf-training-springboot-2019/spacemission-manager/issues/18)
